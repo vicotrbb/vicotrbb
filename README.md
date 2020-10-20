@@ -47,7 +47,7 @@ Check for a detailed stats here 🙋 [Sourcerer](https://sourcerer.io/vicotrbb)
 ---
 ### You can checkout my blog's posts 👀
 
-[![victor bona Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@victor.bona&type=vertical)](https://www.instagram.com/victor.bona/)
+[![victor bona Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@victor.bona&type=horizontal)](https://www.instagram.com/victor.bona/)
 
 [Add your blogs to your github profile using this Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
 
