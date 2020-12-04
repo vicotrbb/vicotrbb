@@ -4,7 +4,7 @@
 
 I am a Experienced Back-end Developer and Machine learning enthusiast 🧠 aiming to work with ML engineering and contribute to the development and growing of Artificial intelligence field, professional and academically. 
  
- 🔭 I’m working on a personal open source Project **Texto lexical analysis - pylexitext**.
+ 🔭 I’m working on a personal open source Project **Text lexical analysis - pylexitext**.
  
  🌱 I’m currently expanding my knowledge about Neural networks.
  
