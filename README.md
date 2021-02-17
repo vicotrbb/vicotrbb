@@ -10,7 +10,7 @@ I am a Experienced Back-end Developer and Machine learning enthusiast 🧠 aimin
  
  🔬 I want to learn more about Neuro Sciences.
  
- 📋 I'm actually working at **WorkDB Data Business**.
+ 📋 I'm actually working at **Mout'S | Soluções em TI**.
  
  💻 I’m graduating in Computer Sciences.
  
