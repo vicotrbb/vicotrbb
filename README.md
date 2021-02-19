@@ -29,7 +29,7 @@ I am a Experienced Back-end Developer and Machine learning enthusiast 🧠 aimin
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicotrbb&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicotrbb&show_icons=true&hide_border=true) 
 
 Check for a detailed stats here 🙋 [Sourcerer](https://sourcerer.io/vicotrbb)
 
