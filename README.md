@@ -10,11 +10,11 @@ I am a Experienced Back-end Developer and Machine learning enthusiast 🧠 aimin
  
  🔬 I want to learn more about Neuro Sciences.
  
- 📋 I'm actually working at **Amazon**.
+ 📋 I'm actually working at **Amazon** as a Software Development Engineer.
  
  💻 I’m graduating in Computer Sciences.
  
- 💬 Call me if you want to speak about any interesting topic.
+ 💬 Feel free to reach me out!! :D
 
 
 ![Profile views](https://gpvc.arturio.dev/vicotrbb)  <img src="https://img.shields.io/github/followers/vicotrbb?label=Follow" style=" float:left, margin-right:10px" />
