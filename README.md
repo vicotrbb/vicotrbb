@@ -1,18 +1,11 @@
 ### Hey Bona here 👋
 
 ---
+I am an Software Engineer aiming to work on amazing projects that will lead to impactful social and technology changes on the world.
 
-I am a Experienced Back-end Developer and Machine learning enthusiast 🧠 aiming to work with ML engineering and contribute to the development and growing of Artificial intelligence field, professional and academically. 
+ 🌱 I’m currently expanding my knowledge about Neural networks and networking infrastructure.
  
- 🔭 I’m working on a personal open source Project **Text lexical analysis - pylexitext**.
- 
- 🌱 I’m currently expanding my knowledge about Neural networks.
- 
- 🔬 I want to learn more about Neuro Sciences.
- 
- 📋 I'm actually working at **Amazon** as a Software Development Engineer.
- 
- 💻 I’m graduating in Computer Sciences.
+ 📋 I'm actually working at **Valari** as a Software Engineer.
  
  💬 Feel free to reach me out!! :D
 
