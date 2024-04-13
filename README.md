@@ -12,14 +12,6 @@ I am an Software Engineer aiming to work on amazing projects that will lead to i
 
 ![Profile views](https://gpvc.arturio.dev/vicotrbb)  <img src="https://img.shields.io/github/followers/vicotrbb?label=Follow" style=" float:left, margin-right:10px" />
 
-
----
-
-
-### Tech & Tools Preference
-
-<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=Python"> <img src="https://img.shields.io/badge/Numpy-critical?style=flat&logo=NumPy"> <img src="https://img.shields.io/badge/tensorflow-green?style=flat&logo=TensorFlow"> <img src="https://img.shields.io/badge/Pandas-blue?style=flat&logo=Pandas"> <img src="https://img.shields.io/badge/Keras-red?style=flat&logo=Keras"> <img src="https://img.shields.io/badge/javascript-black?style=flat&logo=JavaScript"> <img src="https://img.shields.io/badge/AdonisJs-purple?style=flat&logo=AdonisJs"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/PLSQL-critical?style=flat&logo=Oracle"> <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=black"> <img src="https://img.shields.io/badge/Spring-9cf?style=flat&logo=Spring"> <img src="https://img.shields.io/badge/Docker-blueviolet?style=flat&logo=Docker">
-
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vicotrbb&show_icons=true&hide_border=true) 
