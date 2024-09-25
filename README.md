@@ -5,7 +5,7 @@ I am an Software Engineer aiming to work on amazing projects that will lead to i
 
 💻 I'm actually working at Valari as a Senior Software Engineer.
 
-📜 AWS Certified Solutions Architect - Associate certified. 
+📜 AWS Certified Solutions Architect.
 
 
 ![Profile views](https://gpvc.arturio.dev/vicotrbb)  <img src="https://img.shields.io/github/followers/vicotrbb?label=Follow" style=" float:left, margin-right:10px" />
