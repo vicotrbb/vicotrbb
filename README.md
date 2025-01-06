@@ -3,7 +3,7 @@
 ---
 I am an Software Engineer aiming to work on amazing projects that will lead to impactful social and technology changes on the world. I'm personally interested in Finance tech and the financial world.
 
-💻 I'm actually working at Valari as a Senior Software Engineer.
+💻 I'm actually working at Deel as a Software Engineer.
 
 📜 AWS Certified Solutions Architect.
 
