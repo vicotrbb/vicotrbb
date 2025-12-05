@@ -36,8 +36,8 @@ And more...
 ### 🫆 My websites
 - **My website (blog, papers, projects)**: [victorbona.dev](https://www.victorbona.dev/)
 - **My AI-Powered open-source SQL IDE**: [sqltemple.dev](https://www.sqltemple.dev/)
-- **My company (being build)**: [daedalusorg.com](https://www.daedalusorg.com/)
+- **My company (under construction)**: [daedalusorg.com](https://www.daedalusorg.com/)
 - **My SaaS**:
   - [Threadrize](https://www.threadrize.com/)
-  - [Tinycare](https://tinycare.io/)
+  - [Tinycare (under construction)](https://tinycare.io/)
  
