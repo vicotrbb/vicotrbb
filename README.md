@@ -3,12 +3,12 @@
 
 ---
 
-I design and build software that aims a little higher than the ordinary—systems that scale, systems that adapt, and systems that *matter*.  
+I design and build software that aims a little higher than the ordinary, systems that scale, systems that adapt, and systems that *matter*.  
 My curiosity gravitates toward financial technology, distributed systems, efficient architecture, and everything that nudges the world toward smarter, more humane infrastructure.
 
-🔹 **Currently @ Deel** — building global payroll and financial systems used worldwide.  
-🔹 **AWS Certified Solutions Architect** — cloud-native design, distributed systems, high-availability patterns.  
-🔹 **Fan of complex problems** — ledgers, orchestration layers, observability stacks, automation, and homelab experiments.
+- **Currently @ Deel**: building global payroll and financial systems used worldwide.  
+- **AWS Certified Solutions Architect**: cloud-native design, distributed systems, high-availability patterns.  
+- **Fan of complex problems**: ledgers, orchestration layers, observability stacks, automation, and homelab experiments.
 
 ---
 
