@@ -38,6 +38,8 @@ And more...
 - **My AI-Powered open-source SQL IDE**: [sqltemple.dev](https://www.sqltemple.dev/)
 - **My digital business card**: [card.victorbona.dev](https://www.card.victorbona.dev/)
 - **My SaaS**:
-  - [Threadrize](https://www.threadrize.com/)
+  - [Guara Cloud](https://www.guaracloud.com)
+  - [Fast stash](https://faststash.app)
+  - [Threadrize (To be turned off)](https://www.threadrize.com/)
   - [Tinycare (under construction)](https://tinycare.io/)
  
