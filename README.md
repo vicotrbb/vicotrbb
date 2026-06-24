@@ -3,8 +3,7 @@
 I build infrastructure products and Rust systems for cloud platforms,
 observability, runtime security, AI operations, and developer tooling.
 
-Founder-builder behind [Guara Cloud](https://www.guaracloud.com), senior
-software engineer at Hopper, AWS Certified Solutions Architect, and homelab
+Senior software engineer at Hopper, Builder behind [Guara Cloud](https://www.guaracloud.com), AWS Certified Solutions Architect, and homelab
 operator using real clusters as a proving ground for product ideas.
 
 I write field notes, technical essays, and project logs at
