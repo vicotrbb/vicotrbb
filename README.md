@@ -21,11 +21,11 @@ I write field notes, technical essays, and project logs at
 - **[E-Navigator](https://github.com/guaracloud/e-navigator)** - Rust and
   eBPF signal plane for Linux and Kubernetes observability, profiling, runtime
   security, and diagnostics.
-- **Tentacle** - Kubernetes-native control plane for AI model artifacts,
+- **[Tentacle](https://github.com/vicotrbb/tentacle)** - Kubernetes-native control plane for AI model artifacts,
   verification, cache policy, and runtime export layouts.
 - **[Gromaq](https://github.com/vicotrbb/gromaq)** - GPU-rendered,
   performance-first terminal emulator foundation in Rust.
-- **Nidus** - modular Rust backend framework inspired by NestJS ergonomics,
+- **[Nidus](https://github.com/vicotrbb/nidus)** - modular Rust backend framework inspired by NestJS ergonomics,
   built on Axum, Tower, and Tokio.
 
 ## Current Projects
@@ -49,7 +49,7 @@ I write field notes, technical essays, and project logs at
 - **[E-Navigator](https://github.com/guaracloud/e-navigator)** - Rust/eBPF
   signal plane for Linux and Kubernetes observability, profiling, runtime
   security, and diagnostics.
-- **Tentacle** - Kubernetes-native AI model artifact control plane for pinned
+- **[Tentacle](https://github.com/vicotrbb/tentacle)** - Kubernetes-native AI model artifact control plane for pinned
   source revisions, verification, cache policy, and runtime export layouts.
 - **[Gromaq](https://github.com/vicotrbb/gromaq)** - GPU-rendered terminal
   emulator foundation in Rust, focused on correctness, performance, PTYs, and
@@ -57,7 +57,7 @@ I write field notes, technical essays, and project logs at
 
 ### Developer Tools and Frameworks
 
-- **Nidus** - modular Rust backend framework inspired by NestJS ergonomics and
+- **[Nidus](https://github.com/vicotrbb/nidus)** - modular Rust backend framework inspired by NestJS ergonomics and
   built on Axum, Tower, Tokio, typed providers, controllers, guards, OpenAPI,
   jobs, and testing helpers.
 - **[Victor Bona Blog](https://github.com/vicotrbb/victorbona.blog)** - my
