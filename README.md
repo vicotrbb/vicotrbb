@@ -35,15 +35,13 @@ I write field notes, technical essays, and project logs at
 - **[Guara Cloud](https://www.guaracloud.com)** - Kubernetes-native PaaS for
   predictable container deployments, managed services, observability, backups,
   and BRL billing.
-- **[Guara Cloud Playground](https://github.com/vicotrbb/guaracloud-playground)**
-  - hello-world examples for the frameworks and languages supported by Guara
-  Cloud.
 - **[SQLTemple](https://github.com/vicotrbb/sqltemple)** - AI-powered SQL IDE
   built with Electron, React, and TypeScript.
 
 ### Experiments
 
 - **[Locus](https://github.com/vicotrbb/locus)** - NUMA-aware memory allocation and efficient KV-cache memory.
+- **[Ferrite](https://github.com/vicotrbb/ferrite)** -  CPU native LLM inference engine made in Rust. 
 
 ### Systems, Security, and Observability
 
