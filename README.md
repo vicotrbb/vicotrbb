@@ -41,6 +41,10 @@ I write field notes, technical essays, and project logs at
 - **[SQLTemple](https://github.com/vicotrbb/sqltemple)** - AI-powered SQL IDE
   built with Electron, React, and TypeScript.
 
+### Experiments
+
+- **[Locus](https://github.com/vicotrbb/locus)** - NUMA-aware memory allocation and efficient KV-cache memory.
+
 ### Systems, Security, and Observability
 
 - **[Purple Wolf](https://github.com/guaracloud/purple-wolf)** - Rust and WASM
