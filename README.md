@@ -62,6 +62,7 @@ I write field notes, technical essays, and project logs at
 - **[Nidus](https://github.com/vicotrbb/nidus)** - modular Rust backend framework inspired by NestJS ergonomics and
   built on Axum, Tower, Tokio, typed providers, controllers, guards, OpenAPI,
   jobs, and testing helpers.
+- **[Imaginu](https://github.com/vicotrbb/imaginu)** - an AI-drivable procedural 3D asset compiler. JSON recipes → deterministic, game-ready GLB assets. Best for vibe coding your own game at your own pace!
 - **[Victor Bona Blog](https://github.com/vicotrbb/victorbona.blog)** - my
   Next.js/MDX writing system for essays, papers, projects, and public notes.
 - **[Codebase Guy](https://github.com/vicotrbb/codebase-guy)** - chat with
