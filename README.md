@@ -1,143 +1,116 @@
-# Victor Bona
+<a href="https://blog.victorbona.dev">
+  <img src="assets/banner.svg" width="100%" alt="Victor Bona: Senior Software Engineer, Distributed systems specialist and AI enthusiast">
+</a>
 
-I build infrastructure products and Rust systems for cloud platforms,
-observability, runtime security, AI operations, and developer tooling.
+<p align="center">
+  <a href="https://blog.victorbona.dev"><code>P100 home</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/about"><code>P200 profile</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/projects"><code>P300 systems</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/research"><code>P400 research</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/blog"><code>P500 writing</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/compendium"><code>P600 compendium</code></a>&nbsp;
+  <a href="https://blog.victorbona.dev/now"><code>/now</code></a>
+</p>
 
-Senior software engineer at Hopper, Builder behind [Guara Cloud](https://www.guaracloud.com), AWS Certified Solutions Architect, and homelab
-operator using real clusters as a proving ground for product ideas.
+<br>
 
-I write field notes, technical essays, and project logs at
-[blog.victorbona.dev](https://blog.victorbona.dev).
+<img src="assets/h-node.svg" alt="$ describe node/victor-bona">
 
-## Start Here
+I build distributed systems and the infrastructure under them, mostly in Rust these days.
+Eight years in: Amazon's fintech team in Brazil, first founding engineer at Valari (YC W22),
+where I rebuilt the ledger in a week after a provider shut down, then Deel, and now
+**Senior Software Engineer at [Hopper](https://hopper.com)**.
 
-- **[Guara Cloud](https://www.guaracloud.com)** - Brazilian PaaS for fast,
-  predictable container deployments with BRL billing.
-- **[blog.victorbona.dev](https://blog.victorbona.dev)** - my writing,
-  papers, project notes, and systems archive.
-- **[Purple Wolf](https://github.com/guaracloud/purple-wolf)** - fast,
-  low-memory Traefik WAF built in Rust and WASM, with conservative benchmark
-  evidence.
-- **[E-Navigator](https://github.com/guaracloud/e-navigator)** - Rust and
-  eBPF signal plane for Linux and Kubernetes observability, profiling, runtime
-  security, and diagnostics.
-- **[Tentacle](https://github.com/vicotrbb/tentacle)** - Kubernetes-native control plane for AI model artifacts,
-  verification, cache policy, and runtime export layouts.
-- **[Gromaq](https://github.com/vicotrbb/gromaq)** - GPU-rendered,
-  performance-first terminal emulator foundation in Rust.
-- **[Nidus](https://github.com/vicotrbb/nidus)** - modular Rust backend framework inspired by NestJS ergonomics,
-  built on Axum, Tower, and Tokio.
+On the side I built **Guara Cloud**, a Kubernetes-native PaaS, and sold it. These days the
+side work is observability databases, eBPF signal planes, HTTP servers, inference runtimes,
+and the papers that come out of measuring them.
 
-## Current Projects
+<br>
 
-### Product and Platform Work
+<img src="assets/h-systems.svg" alt="$ get systems --owner victor-bona">
 
-- **[Guara Cloud](https://www.guaracloud.com)** - Kubernetes-native PaaS for
-  predictable container deployments, managed services, observability, backups,
-  and BRL billing.
-- **[SQLTemple](https://github.com/vicotrbb/sqltemple)** - AI-powered SQL IDE
-  built with Electron, React, and TypeScript.
+| system | state | what it is |
+| :-- | :-- | :-- |
+| **[Positron](https://github.com/vicotrbb/positron)** | <img src="assets/s-building.svg" alt="building"> | Observability database for native logs and traces, in Rust. [case study](https://blog.victorbona.dev/projects/positron) |
+| **[Maximus](https://github.com/vicotrbb/maximus)** | <img src="assets/s-building.svg" alt="building"> | Modular Rust HTTP server for Linux: one local executor per worker, io_uring and epoll, optional TLS, HTTP/2 and HTTP/3. |
+| **[E&#8209;Navigator](https://github.com/guaracloud/e-navigator)** | <img src="assets/s-building.svg" alt="building"> | Rust and eBPF signal plane for Linux and Kubernetes observability, profiling, runtime security and diagnostics. [case study](https://blog.victorbona.dev/projects/e-navigator) |
+| **[Ferrite](https://github.com/vicotrbb/ferrite)** | <img src="assets/s-building.svg" alt="building"> | CPU-native LLM inference engine: GGUF models, quantized SIMD kernels, an OpenAI-compatible server. |
+| **[Locus](https://github.com/vicotrbb/locus)** | <img src="assets/s-building.svg" alt="building"> | Parameterless chunk-mailbox KV-block pool for CPU LLM serving, published as [`locus-alloc`](https://crates.io/crates/locus-alloc). |
+| **[Nidus](https://github.com/vicotrbb/nidus)** | <img src="assets/s-maintained.svg" alt="maintained"> | Modular Rust backend framework with NestJS ergonomics on Axum, Tower and Tokio. [rustnidus.com](https://rustnidus.com) · [case study](https://blog.victorbona.dev/projects/nidus) |
+| **[Purple&nbsp;Wolf](https://github.com/guaracloud/purple-wolf)** | <img src="assets/s-maintained.svg" alt="maintained"> | Low-memory WAF for Traefik, shipped as a WASM plugin with signed releases and SBOMs. |
+| **[Devboxes](https://github.com/vicotrbb/devboxes)** | <img src="assets/s-maintained.svg" alt="maintained"> | Self-hosted, ephemeral dev environments on Kubernetes: create a box, SSH in, resume the same tmux session. |
+| **[Gromaq](https://github.com/vicotrbb/gromaq)** | <img src="assets/s-maintained.svg" alt="maintained"> | GPU-rendered terminal emulator in Rust, with winit, wgpu and real PTYs. [gromaq.dev](https://gromaq.dev) |
+| **[Imaginu](https://github.com/vicotrbb/imaginu)** | <img src="assets/s-maintained.svg" alt="maintained"> | AI-drivable procedural 3D asset compiler: JSON recipes in, deterministic game-ready GLB out. |
+| **[SQLTemple](https://github.com/vicotrbb/sqltemple)** | <img src="assets/s-maintained.svg" alt="maintained"> | Open-source, AI-powered SQL IDE. [sqltemple.dev](https://sqltemple.dev) |
+| **Guara&nbsp;Cloud** | <img src="assets/s-sold.svg" alt="sold"> | Kubernetes-native PaaS with catalog services, billing, observability and backups. Built, run, sold. [case study](https://blog.victorbona.dev/projects/guara-cloud) |
 
-### Experiments
+<br>
 
-- **[Locus](https://github.com/vicotrbb/locus)** - NUMA-aware memory allocation and efficient KV-cache memory.
-- **[Ferrite](https://github.com/vicotrbb/ferrite)** -  CPU native LLM inference engine made in Rust. 
+<img src="assets/h-lab.svg" alt="$ get experiments --namespace lab">
 
-### Systems, Security, and Observability
+| experiment | what it is |
+| :-- | :-- |
+| **[Janus](https://github.com/vicotrbb/janus)** | Open-source observatory for autonomous strategic simulations, with inspectable world dynamics and optional LLM policy councils. |
+| **[Aerostat](https://github.com/vicotrbb/aerostat)** | Rust drone simulation lab: isolated Rust/C++ flight programs, swarm radio simulation and a 3D interface. |
+| **[Botcrew](https://github.com/vicotrbb/botcrew)** | Kubernetes-native deployment orchestrator for autonomous AI agents. |
+| **[cache-fill-fences](https://github.com/vicotrbb/cache-fill-fences)** | Lean-verified state minimization for asynchronous cache-fill invalidation. |
+| **[capacity-replay](https://github.com/vicotrbb/capacity-replay)** | Lean-verified exact state complexity for capacity-parametric counter replay. |
 
-- **[Purple Wolf](https://github.com/guaracloud/purple-wolf)** - Rust and WASM
-  Traefik WAF with signed releases, SBOMs, Helm/Kustomize packaging, and
-  benchmark documentation.
-- **[E-Navigator](https://github.com/guaracloud/e-navigator)** - Rust/eBPF
-  signal plane for Linux and Kubernetes observability, profiling, runtime
-  security, and diagnostics.
-- **[Tentacle](https://github.com/vicotrbb/tentacle)** - Kubernetes-native AI model artifact control plane for pinned
-  source revisions, verification, cache policy, and runtime export layouts.
-- **[Gromaq](https://github.com/vicotrbb/gromaq)** - GPU-rendered terminal
-  emulator foundation in Rust, focused on correctness, performance, PTYs, and
-  renderer boundaries.
+<details>
+<summary><code>$ get systems --all-namespaces</code> &nbsp;older tools and utilities</summary>
+<br>
 
-### Developer Tools and Frameworks
+- **[Victor Bona Blog](https://github.com/vicotrbb/victorbona.blog)**: the Next.js and MDX site this profile is styled after.
+- **[Agent Skills](https://github.com/guaracloud/agent-skills)**: agent skills for deploying and managing apps on Guara Cloud.
+- **[Codebase Guy](https://github.com/vicotrbb/codebase-guy)**: chat with multiple codebases at once.
+- **[DataTide](https://github.com/vicotrbb/data-tide-js)**: Node.js library for processing large datasets on worker threads.
+- **[SaaS Starter Template](https://github.com/vicotrbb/saas-starter-template)**: Next.js 15, Supabase and Stripe starter.
+- **[Oh My GPT](https://github.com/vicotrbb/oh-my-gpt)**: ZSH plugin for talking to ChatGPT from the terminal.
+- **[Agent Buddy](https://github.com/vicotrbb/agent-buddy)**: CLI ReAct agent for local terminal work.
+- **[Pylexitext](https://github.com/vicotrbb/Pylexitext)**: Python library of NLP and text-analysis utilities.
+- **[Data Science](https://github.com/vicotrbb/data_science)**: notes and studies on data science and machine learning.
 
-- **[Nidus](https://github.com/vicotrbb/nidus)** - modular Rust backend framework inspired by NestJS ergonomics and
-  built on Axum, Tower, Tokio, typed providers, controllers, guards, OpenAPI,
-  jobs, and testing helpers.
-- **[Imaginu](https://github.com/vicotrbb/imaginu)** - an AI-drivable procedural 3D asset compiler. JSON recipes → deterministic, game-ready GLB assets. Best for vibe coding your own game at your own pace!
-- **[Victor Bona Blog](https://github.com/vicotrbb/victorbona.blog)** - my
-  Next.js/MDX writing system for essays, papers, projects, and public notes.
-- **[Codebase Guy](https://github.com/vicotrbb/codebase-guy)** - chat with
-  multiple codebases more easily.
-- **[Botcrew](https://github.com/vicotrbb/botcrew)** - Kubernetes-native
-  deployment orchestrator for autonomous AI agents.
-- **[Agent Skills](https://github.com/guaracloud/agent-skills)** - agent skills
-  for deploying and managing apps on Guara Cloud.
+</details>
 
-### Older Experiments and Utilities
+<br>
 
-- **[SaaS Starter Template](https://github.com/vicotrbb/saas-starter-template)**
-  - opinionated Next.js 15, Supabase, Stripe, Tailwind, and shadcn/ui starter.
-- **[DataTide](https://github.com/vicotrbb/data-tide-js)** - Node.js library
-  for processing large datasets with worker threads.
-- **[Oh My GPT](https://github.com/vicotrbb/oh-my-gpt)** - ZSH plugin for
-  interacting with ChatGPT from the terminal.
-- **[Agent Buddy](https://github.com/vicotrbb/agent-buddy)** - CLI-based ReAct
-  agent for local terminal workflows.
-- **[Pylexitext](https://github.com/vicotrbb/Pylexitext)** - Python library for
-  NLP, text analysis, content conversion, and related utilities.
-- **[Data Science](https://github.com/vicotrbb/data_science)** - notes and
-  studies around data science, machine learning, and AI.
+<img src="assets/h-research.svg" alt="$ get papers --sort published">
 
-## Product Lab
+- `2026-09-29` [Rigidity of Pattern-Avoiding Breadth-First Reading Words of Increasing Trees](https://doi.org/10.5281/zenodo.23042420) · [code](https://github.com/vicotrbb/bfs-avoidance-frontier)
+- `2026-09-29` [Trace Sampling at the Collector Boundary: Costs and Diagnostic Evidence](https://doi.org/10.5281/zenodo.23032245) · [code](https://github.com/vicotrbb/trace-sampling-strategies)
+- `2026-09-25` [Message Delivery Reliability and Recovery in Redis Streams and NATS JetStream](https://doi.org/10.5281/zenodo.22950140) · [code](https://github.com/vicotrbb/redis-jetstream-reliability)
+- `2026-09-08` [Nidus: Explicit Application Composition for Rust Backend Services](https://blog.victorbona.dev/articles/nidus-whitepaper) · [code](https://github.com/vicotrbb/nidus)
+- `2026-07-06` [Locus: Owner-Drained Chunk Mailboxes for KV-Block Recycling in CPU LLM Inference](https://blog.victorbona.dev/articles/locus-whitepaper) · [code](https://github.com/vicotrbb/locus)
+- `2026-06-07` [Purple Wolf: A Low-Latency Traefik Web Application Firewall and Audit Relay](https://blog.victorbona.dev/articles/purple-wolf-whitepaper) · [code](https://github.com/guaracloud/purple-wolf)
+- `2026-06-07` [The Missing HTTP Verb: STRUT](https://blog.victorbona.dev/articles/the-missing-http-verb-strut)
 
-I work where product pressure meets systems engineering:
+Citations and a reading list live at [blog.victorbona.dev/research](https://blog.victorbona.dev/research).
 
-- **Cloud platforms:** Kubernetes control planes, container deployment,
-  managed services, tenant isolation, billing, logs, metrics, and GitOps.
-- **Runtime visibility:** node-local agents, eBPF sources, signal envelopes,
-  low-cardinality metrics, traces, profiles, and proof-boundary discipline.
-- **Security infrastructure:** request inspection, WASM plugins, signed
-  webhook delivery, benchmark methodology, and supply-chain release surfaces.
-- **AI operations:** model artifact identity, pinned revisions,
-  content-addressed storage, verification, cache retention, and runtime export.
-- **Developer tools:** terminals, CLI workflows, backend frameworks, SQL tools,
-  and agent-assisted development systems.
+<br>
 
-## Writing and Field Notes
+<img src="assets/h-writing.svg" alt="$ tail -n 5 /var/log/writing">
 
-My blog is where I turn the work into something easier to inspect:
-architecture notes, founder logs, homelab writeups, product decisions, and
-deep technical essays.
+<!-- writing:start -->
+- `2026-09-08` [A File Can Replace Your Tile Server: The Engineering Behind PMTiles](https://blog.victorbona.dev/blog/a-file-can-replace-your-tile-server)
+- `2026-09-08` [Designing Data Pipelines That Stay Within a Memory Budget](https://blog.victorbona.dev/blog/data-pipelines-within-a-memory-budget)
+- `2026-09-08` [Fast Spatial Queries Without Losing Correctness](https://blog.victorbona.dev/blog/fast-spatial-queries-without-losing-correctness)
+- `2026-09-08` [Stop Reading the Whole Dataset: GeoParquet, Spatial Locality, and Query Pruning](https://blog.victorbona.dev/blog/geoparquet-spatial-locality-and-query-pruning)
+- `2026-06-16` [Status Is a Distributed System](https://blog.victorbona.dev/blog/status-is-a-distributed-system)
+<!-- writing:end -->
 
-- [blog.victorbona.dev](https://blog.victorbona.dev) - website, projects, papers,
-  and public notes.
-- Topics I usually write about: infrastructure, Rust, Kubernetes,
-  observability, homelab systems, AI tooling, SaaS, and product engineering.
+<sub>Refreshed daily from the [RSS feed](https://blog.victorbona.dev/rss). Everything else, including a 150-note engineering compendium, is on [the blog](https://blog.victorbona.dev).</sub>
 
-## Current Focus
+<br>
 
-- Shipping **Guara Cloud** as a pragmatic cloud platform for Brazilian builders.
-- Building Rust-native systems for observability, security, AI infrastructure,
-  and developer experience.
-- Using my homelab as a live environment for cluster operations, reliability
-  work, and product validation.
-- Publishing more of the engineering trail through the blog, papers, and
-  project documentation.
+<img src="assets/h-connect.svg" alt="$ connect --to victor-bona">
 
-## Technical Range
+`web` [blog.victorbona.dev](https://blog.victorbona.dev) &nbsp;·&nbsp;
+`linkedin` [in/victorbona](https://www.linkedin.com/in/victorbona/) &nbsp;·&nbsp;
+`x` [@BonaVictor](https://x.com/BonaVictor) &nbsp;·&nbsp;
+`email` [victor.bona@hotmail.com](mailto:victor.bona@hotmail.com)
 
-| Area             | Tools and systems                                    |
-| ---------------- | ---------------------------------------------------- |
-| Languages        | Rust, TypeScript, Python, Java                       |
-| Backend          | Node.js, NestJS, FastAPI, Axum, Tower, Tokio         |
-| Infrastructure   | Kubernetes, Docker, Proxmox, Terraform, AWS, GitOps  |
-| Data             | PostgreSQL, Redis, ClickHouse, SQLite                |
-| Observability    | Prometheus, Grafana, Tempo, Loki, SigNoz, eBPF, OTLP |
-| Product surfaces | PaaS, SaaS, CLIs, dashboards, APIs, developer tools  |
+<br>
 
-## Elsewhere
-
-- Blog: [blog.victorbona.dev](https://blog.victorbona.dev)
-- GitHub: [@vicotrbb](https://github.com/vicotrbb)
-- X: [@BonaVictor](https://x.com/BonaVictor)
-- LinkedIn: [Victor Bona](https://www.linkedin.com/in/victorbona/)
-- Instagram: [@victor.bona](https://www.instagram.com/victor.bona/)
+<a href="https://blog.victorbona.dev">
+  <img src="assets/footer.svg" width="100%" alt="exit: connection kept open at blog.victorbona.dev">
+</a>
