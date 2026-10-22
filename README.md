@@ -33,16 +33,16 @@ and the papers that come out of measuring them.
 | :-- | :-- | :-- |
 | **[Positron](https://github.com/vicotrbb/positron)** | <img src="assets/s-building.svg" alt="building"> | Observability database for native logs and traces, in Rust. [case study](https://blog.victorbona.dev/projects/positron) |
 | **[Maximus](https://github.com/vicotrbb/maximus)** | <img src="assets/s-building.svg" alt="building"> | Modular Rust HTTP server for Linux: one local executor per worker, io_uring and epoll, optional TLS, HTTP/2 and HTTP/3. |
-| **[E-Navigator](https://github.com/guaracloud/e-navigator)** | <img src="assets/s-building.svg" alt="building"> | Rust and eBPF signal plane for Linux and Kubernetes observability, profiling, runtime security and diagnostics. [case study](https://blog.victorbona.dev/projects/e-navigator) |
+| **[E&#8209;Navigator](https://github.com/guaracloud/e-navigator)** | <img src="assets/s-building.svg" alt="building"> | Rust and eBPF signal plane for Linux and Kubernetes observability, profiling, runtime security and diagnostics. [case study](https://blog.victorbona.dev/projects/e-navigator) |
 | **[Ferrite](https://github.com/vicotrbb/ferrite)** | <img src="assets/s-building.svg" alt="building"> | CPU-native LLM inference engine: GGUF models, quantized SIMD kernels, an OpenAI-compatible server. |
 | **[Locus](https://github.com/vicotrbb/locus)** | <img src="assets/s-building.svg" alt="building"> | Parameterless chunk-mailbox KV-block pool for CPU LLM serving, published as [`locus-alloc`](https://crates.io/crates/locus-alloc). |
 | **[Nidus](https://github.com/vicotrbb/nidus)** | <img src="assets/s-maintained.svg" alt="maintained"> | Modular Rust backend framework with NestJS ergonomics on Axum, Tower and Tokio. [rustnidus.com](https://rustnidus.com) · [case study](https://blog.victorbona.dev/projects/nidus) |
-| **[Purple Wolf](https://github.com/guaracloud/purple-wolf)** | <img src="assets/s-maintained.svg" alt="maintained"> | Low-memory WAF for Traefik, shipped as a WASM plugin with signed releases and SBOMs. |
+| **[Purple&nbsp;Wolf](https://github.com/guaracloud/purple-wolf)** | <img src="assets/s-maintained.svg" alt="maintained"> | Low-memory WAF for Traefik, shipped as a WASM plugin with signed releases and SBOMs. |
 | **[Devboxes](https://github.com/vicotrbb/devboxes)** | <img src="assets/s-maintained.svg" alt="maintained"> | Self-hosted, ephemeral dev environments on Kubernetes: create a box, SSH in, resume the same tmux session. |
 | **[Gromaq](https://github.com/vicotrbb/gromaq)** | <img src="assets/s-maintained.svg" alt="maintained"> | GPU-rendered terminal emulator in Rust, with winit, wgpu and real PTYs. [gromaq.dev](https://gromaq.dev) |
 | **[Imaginu](https://github.com/vicotrbb/imaginu)** | <img src="assets/s-maintained.svg" alt="maintained"> | AI-drivable procedural 3D asset compiler: JSON recipes in, deterministic game-ready GLB out. |
 | **[SQLTemple](https://github.com/vicotrbb/sqltemple)** | <img src="assets/s-maintained.svg" alt="maintained"> | Open-source, AI-powered SQL IDE. [sqltemple.dev](https://sqltemple.dev) |
-| **Guara Cloud** | <img src="assets/s-sold.svg" alt="sold"> | Kubernetes-native PaaS with catalog services, billing, observability and backups. Built, run, sold. [case study](https://blog.victorbona.dev/projects/guara-cloud) |
+| **Guara&nbsp;Cloud** | <img src="assets/s-sold.svg" alt="sold"> | Kubernetes-native PaaS with catalog services, billing, observability and backups. Built, run, sold. [case study](https://blog.victorbona.dev/projects/guara-cloud) |
 
 <br>
 
@@ -76,15 +76,13 @@ and the papers that come out of measuring them.
 
 <img src="assets/h-research.svg" alt="$ get papers --sort published">
 
-| published | paper | |
-| :-- | :-- | :-- |
-| `2026-09-29` | [Rigidity of Pattern-Avoiding Breadth-First Reading Words of Increasing Trees](https://doi.org/10.5281/zenodo.23042420) | [code](https://github.com/vicotrbb/bfs-avoidance-frontier) |
-| `2026-09-29` | [Trace Sampling at the Collector Boundary: Costs and Diagnostic Evidence](https://doi.org/10.5281/zenodo.23032245) | [code](https://github.com/vicotrbb/trace-sampling-strategies) |
-| `2026-09-25` | [Message Delivery Reliability and Recovery in Redis Streams and NATS JetStream](https://doi.org/10.5281/zenodo.22950140) | [code](https://github.com/vicotrbb/redis-jetstream-reliability) |
-| `2026-09-08` | [Nidus: Explicit Application Composition for Rust Backend Services](https://blog.victorbona.dev/articles/nidus-whitepaper) | [code](https://github.com/vicotrbb/nidus) |
-| `2026-07-06` | [Locus: Owner-Drained Chunk Mailboxes for KV-Block Recycling in CPU LLM Inference](https://blog.victorbona.dev/articles/locus-whitepaper) | [code](https://github.com/vicotrbb/locus) |
-| `2026-06-07` | [Purple Wolf: A Low-Latency Traefik Web Application Firewall and Audit Relay](https://blog.victorbona.dev/articles/purple-wolf-whitepaper) | [code](https://github.com/guaracloud/purple-wolf) |
-| `2026-06-07` | [The Missing HTTP Verb: STRUT](https://blog.victorbona.dev/articles/the-missing-http-verb-strut) | |
+- `2026-09-29` [Rigidity of Pattern-Avoiding Breadth-First Reading Words of Increasing Trees](https://doi.org/10.5281/zenodo.23042420) · [code](https://github.com/vicotrbb/bfs-avoidance-frontier)
+- `2026-09-29` [Trace Sampling at the Collector Boundary: Costs and Diagnostic Evidence](https://doi.org/10.5281/zenodo.23032245) · [code](https://github.com/vicotrbb/trace-sampling-strategies)
+- `2026-09-25` [Message Delivery Reliability and Recovery in Redis Streams and NATS JetStream](https://doi.org/10.5281/zenodo.22950140) · [code](https://github.com/vicotrbb/redis-jetstream-reliability)
+- `2026-09-08` [Nidus: Explicit Application Composition for Rust Backend Services](https://blog.victorbona.dev/articles/nidus-whitepaper) · [code](https://github.com/vicotrbb/nidus)
+- `2026-07-06` [Locus: Owner-Drained Chunk Mailboxes for KV-Block Recycling in CPU LLM Inference](https://blog.victorbona.dev/articles/locus-whitepaper) · [code](https://github.com/vicotrbb/locus)
+- `2026-06-07` [Purple Wolf: A Low-Latency Traefik Web Application Firewall and Audit Relay](https://blog.victorbona.dev/articles/purple-wolf-whitepaper) · [code](https://github.com/guaracloud/purple-wolf)
+- `2026-06-07` [The Missing HTTP Verb: STRUT](https://blog.victorbona.dev/articles/the-missing-http-verb-strut)
 
 Citations and a reading list live at [blog.victorbona.dev/research](https://blog.victorbona.dev/research).
 
