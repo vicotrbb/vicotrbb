@@ -1,0 +1,12 @@
+{
+  "name": "vicotrbb-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node scripts/render.mjs",
+    "writing": "node scripts/writing.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "1.3.4"
+  }
+}
