@@ -91,11 +91,11 @@ Citations and a reading list live at [blog.victorbona.dev/research](https://blog
 <img src="assets/h-writing.svg" alt="$ tail -n 5 /var/log/writing">
 
 <!-- writing:start -->
+- `2026-10-29` [io_uring vs epoll, Measured: What Completion I/O Actually Buys an HTTP Server](https://blog.victorbona.dev/blog/io-uring-vs-epoll-measured)
 - `2026-09-08` [A File Can Replace Your Tile Server: The Engineering Behind PMTiles](https://blog.victorbona.dev/blog/a-file-can-replace-your-tile-server)
 - `2026-09-08` [Designing Data Pipelines That Stay Within a Memory Budget](https://blog.victorbona.dev/blog/data-pipelines-within-a-memory-budget)
 - `2026-09-08` [Fast Spatial Queries Without Losing Correctness](https://blog.victorbona.dev/blog/fast-spatial-queries-without-losing-correctness)
 - `2026-09-08` [Stop Reading the Whole Dataset: GeoParquet, Spatial Locality, and Query Pruning](https://blog.victorbona.dev/blog/geoparquet-spatial-locality-and-query-pruning)
-- `2026-06-16` [Status Is a Distributed System](https://blog.victorbona.dev/blog/status-is-a-distributed-system)
 <!-- writing:end -->
 
 <sub>Refreshed daily from the [RSS feed](https://blog.victorbona.dev/rss). Everything else, including a 150-note engineering compendium, is on [the blog](https://blog.victorbona.dev).</sub>
