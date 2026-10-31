@@ -31,7 +31,6 @@ and the papers that come out of measuring them.
 
 | system | state | what it is |
 | :-- | :-- | :-- |
-| **[Positron](https://github.com/vicotrbb/positron)** | <img src="assets/s-building.svg" alt="building"> | Observability database for native logs and traces, in Rust. [case study](https://blog.victorbona.dev/projects/positron) |
 | **[Maximus](https://github.com/vicotrbb/maximus)** | <img src="assets/s-building.svg" alt="building"> | Modular Rust HTTP server for Linux: one local executor per worker, io_uring and epoll, optional TLS, HTTP/2 and HTTP/3. |
 | **[E&#8209;Navigator](https://github.com/guaracloud/e-navigator)** | <img src="assets/s-building.svg" alt="building"> | Rust and eBPF signal plane for Linux and Kubernetes observability, profiling, runtime security and diagnostics. [case study](https://blog.victorbona.dev/projects/e-navigator) |
 | **[Ferrite](https://github.com/vicotrbb/ferrite)** | <img src="assets/s-building.svg" alt="building"> | CPU-native LLM inference engine: GGUF models, quantized SIMD kernels, an OpenAI-compatible server. |
@@ -43,6 +42,8 @@ and the papers that come out of measuring them.
 | **[Imaginu](https://github.com/vicotrbb/imaginu)** | <img src="assets/s-maintained.svg" alt="maintained"> | AI-drivable procedural 3D asset compiler: JSON recipes in, deterministic game-ready GLB out. |
 | **[SQLTemple](https://github.com/vicotrbb/sqltemple)** | <img src="assets/s-maintained.svg" alt="maintained"> | Open-source, AI-powered SQL IDE. [sqltemple.dev](https://sqltemple.dev) |
 | **Guara&nbsp;Cloud** | <img src="assets/s-sold.svg" alt="sold"> | Kubernetes-native PaaS with catalog services, billing, observability and backups. Built, run, sold. [case study](https://blog.victorbona.dev/projects/guara-cloud) |
+| **[Cubebot](https://github.com/vicotrbb/cubebot)** | <img src="assets/s-building.svg" alt="building"> | Kubernetes-native runtime for persistent, collaborative AI agents, each sandboxed in its own KVM guest. [cubebot.io](https://cubebot.io) |
+| **[Positron](https://github.com/vicotrbb/positron)** | <img src="assets/s-building.svg" alt="building"> | Observability database for native logs and traces, in Rust. [case study](https://blog.victorbona.dev/projects/positron) |
 
 <br>
 
